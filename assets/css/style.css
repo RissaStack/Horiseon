@@ -23,7 +23,7 @@ body {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed from div to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,7 +31,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* changed from div to nav and got rid of ul and li */
 header nav a {
     list-style-type: none;
 }
@@ -45,6 +45,7 @@ p {
     font-size: 16px;
 }
 
+/* <!--changed this from hero to background image--> */
 .background-image {
     height: 800px;
     width: 100%;
@@ -85,23 +86,23 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Created a .benefit-content to condense lead, brand, and cost together */
 .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Created benefit-content h3 to condense all three h3s together. */
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* created benefit-content img to condense all three img together. */
 .benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Changed from search-engine-optimization to main-content. */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,10 +129,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* created main-content to condense search-engine-optimization, online-reputation-management, and social-media-marketing. */
 .main-content img {
     max-height: 200px;
 }
+/* created main-content img to condense search-engine-optimization img, online-reputation-management img, and social-media-marketing img. */
 
 .main-content h2 {
     margin-bottom: 20px;
