@@ -19,5 +19,5 @@ I was guided on this project by a fellow bootcamp student; Jeremiah Miranda.
 <a hreaf="https://github.com/RissaStack/Horiseon">Horiseon:Online Solutions</a>
 
 
-![Image of application](/assets/images/brand-awareness.png  "Title")
+
 
