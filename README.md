@@ -11,10 +11,13 @@
 
 VS Code
 
+## Collaborators
+I was guided on this project by a fellow bootcamp student; Jeremiah Miranda.
+
 ## Site Location
 
-Horiseon:Online Solutions
+<a hreaf="https://github.com/RissaStack/Horiseon">Horiseon:Online Solutions</a>
 
 
-![Image of application](/assets/images/lead-generation.png  "Title")
+![Image of application](/assets/images/brand-awareness.png  "Title")
 
